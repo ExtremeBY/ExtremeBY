@@ -1,5 +1,13 @@
 ## Hi there 👋
-
+<div align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="40" height="40" alt="C" title="C"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40" height="40" alt="C++" title="C++"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="40" height="40" alt="C#" title="C#"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" alt="HTML5" title="HTML5"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40" alt="CSS3" title="CSS3"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="40" height="40" alt="Sass" title="Sass"/>&nbsp;
+</div>
 <!--
 **ExtremeBY/ExtremeBY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
